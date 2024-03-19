@@ -2,7 +2,7 @@
 
 Submitted by: **Miguel Gomez**
 
-**Name of your app** is an app that is Trivia App, and it's an app trivia game to guess the correct anwser, and gain points.
+**Name of your app** is an app that is Trivia App, and it's an app trivia game to guess the correct answer, and gain points.
 
 Time spent: *48** hours spent in total
 
